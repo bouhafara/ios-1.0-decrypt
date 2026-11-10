@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Termux / firmware extracts
+*.ipsw
+*.dmg
+*.dec
+*.raw
+*.img2
+
+# Editors
+.vscode/
+.idea/
+*.swp
